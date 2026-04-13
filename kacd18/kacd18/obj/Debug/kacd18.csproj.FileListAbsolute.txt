@@ -1,0 +1,8 @@
+C:\Users\palag\source\repos\kacd18\kacd18\bin\Debug\kacd18.exe.config
+C:\Users\palag\source\repos\kacd18\kacd18\bin\Debug\kacd18.exe
+C:\Users\palag\source\repos\kacd18\kacd18\bin\Debug\kacd18.pdb
+C:\Users\palag\source\repos\kacd18\kacd18\obj\Debug\kacd18.csproj.AssemblyReference.cache
+C:\Users\palag\source\repos\kacd18\kacd18\obj\Debug\kacd18.csproj.CoreCompileInputs.cache
+C:\Users\palag\source\repos\kacd18\kacd18\obj\Debug\kacd18.exe
+C:\Users\palag\source\repos\kacd18\kacd18\obj\Debug\kacd18.pdb
+C:\Users\palag\source\repos\kacd18\kacd18\obj\Debug\kacd18.exe.config
