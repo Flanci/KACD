@@ -1,0 +1,7 @@
+C:\Users\palag\source\repos\kacd19\kacd19\obj\Debug\kacd19.csproj.AssemblyReference.cache
+C:\Users\palag\source\repos\kacd19\kacd19\obj\Debug\kacd19.csproj.CoreCompileInputs.cache
+C:\Users\palag\source\repos\kacd19\kacd19\bin\Debug\kacd19.exe.config
+C:\Users\palag\source\repos\kacd19\kacd19\bin\Debug\kacd19.exe
+C:\Users\palag\source\repos\kacd19\kacd19\bin\Debug\kacd19.pdb
+C:\Users\palag\source\repos\kacd19\kacd19\obj\Debug\kacd19.exe
+C:\Users\palag\source\repos\kacd19\kacd19\obj\Debug\kacd19.pdb
